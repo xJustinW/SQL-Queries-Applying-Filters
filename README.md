@@ -1,4 +1,4 @@
-<h1>SQL-Queries-Applying-Filters</h1>
+<h1>SQL Queries: Applying Filters</h1>
 In this lab, I am documenting the steps I take in order to install Adguard Home on my Raspberry Pi to create my own personal DNS Server. The DNS server's main role on my network is to increase privacy andd security for any device that is on my network.
 
 <h2>Why I Created My Own DNS Server</h2>
